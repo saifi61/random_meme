@@ -1,5 +1,3 @@
----
-
 ### Random Meme Generator
 
 **Overview:**
@@ -23,5 +21,3 @@ The Random Meme Generator is a fun and interactive web application that allows u
 - **React**: For building the interactive user interface.
 - **API Integration**: To fetch the top 100 meme images.
 - **State Management**: For handling the input text and image rendering efficiently.
-
----
